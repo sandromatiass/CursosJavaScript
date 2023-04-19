@@ -10,3 +10,4 @@ console.log(numeros[2]);
 
 // propiedade e tudo que vem dps do ponto tmb pode ser metodos que será explicado nos proximos videos vc volta aqui
 //quando entender
+
